@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/AudreyLorna/portfolio-github/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Audrey Lorna Okeyo and below are projects I've worked on along with my groupmates during the software engineering and management course in the University of Gothenburg.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Trailgage
 
-### Markdown
+This project falls under the Systems Development module of th programme. The requirements of this project was to come up with a software system that is able to remotely control a car. We came up with Trailgage which is a smart luggage carrier that enables the user to free their hands when moving around airports and train stations. My main contribution to this project was the app design.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### EventNode
 
-# Header 1
-## Header 2
-### Header 3
+Eventnode is a website that enables users to upload, find and participate in events.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Dentistimo
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AudreyLorna/portfolio-github/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dentistimo is a website that functions with the assistance of distributed systems that embody several architectures such as pipe and filter, server-client and publish-subscribe. The website's purpose is to enable users to book appointments at different dentist offices  and dentists to post available times.
