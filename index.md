@@ -1,3 +1,5 @@
+
+![Profile](screenshot.png)
 ## About me
 
 My name is Audrey Lorna Okeyo and below are projects I've worked on along with my groupmates during the software engineering and management course in the University of Gothenburg.
